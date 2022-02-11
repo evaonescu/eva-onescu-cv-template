@@ -82,9 +82,9 @@ footer {
 
 .portrait-container {
 	margin: 10px;
-	border-radius: 130px;
+	border-radius: 100px;
 	background-color: rgba(120,120,120,.4);
-	max-height: 30%;
+	max-height: 20%;
 }
 
 .portrait-container img {
