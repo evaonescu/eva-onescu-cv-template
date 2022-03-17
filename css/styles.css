@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Open Sans, Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif' Helvetica, Arial, sans-serif;
+	font-family:  "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed";
 	color: #202030;
 	background-color: #E0FFE7;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFEEF8;
 }
 
 /* Styles for lists in the document */
