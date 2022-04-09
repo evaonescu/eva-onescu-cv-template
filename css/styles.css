@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family:  "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed";
+	font-family: "ubuntu", "ubuntu-condensed", "ubuntu-mono";
 	color: #202030;
 	background-color: #E0FFE7;
 }
