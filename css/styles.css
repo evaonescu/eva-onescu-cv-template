@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: "ubuntu", "ubuntu-condensed", "ubuntu-mono";
+	font-family: "ubuntu", sans-serif;
 	color: #202030;
 	background-color: #E0FFE7;
 }
