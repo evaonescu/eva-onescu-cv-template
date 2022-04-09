@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 /* Styles for the body */
 
 body {
-	font-family:  "Crimson Pro";
+	font-family:  "Ubuntu";
 	color: #202030;
 	background-color: #E0FFE7;
 }
