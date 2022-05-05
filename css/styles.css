@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family:  "Ubuntu";
+	font-family: 'Inter', sans-serif;
 	color: #202030;
 	background-color: #E0FFE7;
 }
